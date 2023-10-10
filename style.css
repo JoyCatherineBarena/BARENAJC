@@ -1,0 +1,14 @@
+*,::after,::before{
+    margin: 300;
+    padding: 100;
+    box-sizing: content-box;
+}
+
+body{
+    margin: 0 100px;
+    background-color: #464343;
+     font-weight: 500;
+     font-family: sans-serif;
+     font-size: 30px;
+     color: White;
+}
